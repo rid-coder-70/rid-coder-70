@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ridoy 👋
 
-<!--
-**rid-coder-70/rid-coder-70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student | 🚀 Competitive Programmer | 🌌 Aspiring Computational Astrophysicist
 
-Here are some ideas to get you started:
+## Skills
+- Programming: C++, Java, Python
+- Web: React.js, Node.js, Tailwind CSS
+- Database: MySQL, Firebase
+- Mobile: Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **RedDrop App**: Flutter + Firebase real-time blood donation app
+- **Explore Bangla A-Z**: React project showcasing tourist spots in Bangladesh
+
+## Contact
+📫 Email: ridoybaidya2@gamil.com
