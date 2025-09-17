@@ -1,6 +1,6 @@
 # Hi, I'm Ridoy Baidya 👋
 
-🚀 Building apps & galaxies | 💻 CSE @ SUST |⚡ Algorithms & Full-Stack
+ 💻 CSE @ SUST |⚡ Algorithms & Full-Stack
 
 ---
 
