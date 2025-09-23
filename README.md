@@ -18,10 +18,8 @@
 
 ## 📂 Projects
 
-### **RedDrop App**
-- Flutter + Firebase real-time blood donation app  
-- Features: Login, profile management, blood requests, real-time updates
-- 
+### **Note Book**
+- Features: Create a Note, Delete a Note, Update a Note 
 ### **Explore Bangla A-Z**
 - React.js project showcasing tourist spots in Bangladesh  
 - Includes blog posts, images, and detail pages
