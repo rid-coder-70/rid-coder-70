@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">Ridoy Baidya</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Making;CSE+Student+%28SUST%29;Competitive+Programmer;Flutter+%26+Firebase+Developer;AI%2FML+Enthusiast;Builds+Apps+That+Matter" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Making;CSE+Student+%28SUST%29;%26+Developer;AI%2FML+Enthusiast;Builds+Apps+That+Matter" alt="Typing Animation">
 </p>
 
 ---
