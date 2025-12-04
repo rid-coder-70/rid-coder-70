@@ -46,30 +46,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridoybaidya&theme=tokyonight&no-frame=true&margin-w=10">
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridoybaidya&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Recent GitHub Activity
-
-_(Automatically updates once you add the workflow)_  
-<div id="recent-activity">
-  • Loading latest activity...
-</div>
-
----
 
 ## 📬 Connect with Me
 
