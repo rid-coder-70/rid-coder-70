@@ -15,11 +15,10 @@
 
 ## 🚀 About Me
 
-- 🎓 **CSE 4th Semester Student**
-- 💻 Focused on **Software Engineering, CP, Algorithms, and Flutter**
+- 🎓 **CSE 5th Semester Student**
+- 💻 Focused on **Software Engineering, ML**
 - 🧠 Learning **Number Theory, Probability & Advanced DSA**
 - 🌌 Interested in **Computational Astrophysics**
-- ⚡ Building intelligent apps: **RedDrop, DoctorGram, AgriNOVA**
 - 🤝 Open to collaboration on Web, App & AI/ML projects
 
 ---
