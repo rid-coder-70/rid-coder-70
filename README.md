@@ -85,8 +85,8 @@ Led a team to design, deploy, and operate a **production-like DevOps system** un
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ridoybaidya&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ridoybaidya&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rid-coder-70&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rid-coder-70&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
