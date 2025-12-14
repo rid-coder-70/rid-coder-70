@@ -8,31 +8,67 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">Ridoy Baidya</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Making;CSE+Student+%28SUST%29;%26Full+Stack+Developer;AI%2FML+Enthusiast;Builds+Apps+That+Matter" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Making;CSE+Student+%28SUST%29;DevOps+%26+Full+Stack+Developer;AI%2FML+Enthusiast;Builds+Production-Ready+Systems" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **CSE 5th Semester Student**
-- 💻 Focused on **Software Engineering, ML**
-- 🧠 Learning **Number Theory, Probability & Advanced DSA**
+- 🎓 **CSE 5th Semester Student** at **Shahjalal University of Science & Technology (SUST)**
+- 💻 Focused on **Software Engineering, DevOps, and Full-Stack Development**
+- 🧠 Learning **Advanced DSA, Number Theory & Probability**
 - 🌌 Interested in **Computational Astrophysics**
-- 🤝 Open to collaboration on Web, App & AI/ML projects
+- 🤝 Open to collaboration on **DevOps, Web, App & AI/ML projects**
+- 🚀 Passionate about building **scalable, automated, and production-ready systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`C++` `Dart` `JavaScript` `Python`  
+### 💻 Programming Languages
+`C++` `Python` `JavaScript` `Dart`
 
-**Frameworks & Tools:**  
-`Flutter` `Firebase` `React` `Node.js` `Express` `MongoDB`  
+### ⚙️ Frameworks & Platforms
+`Flutter` `React` `Node.js` `Express`  
+`Firebase` `MongoDB`
 
-**Other Skills:**  
-`Docker` `GitHub Actions` `REST APIs` `UI/UX`  
+### 🚀 DevOps & Tools
+`Docker` `Docker Compose`  
+`GitHub Actions (CI/CD)`  
+`Linux` `Nginx`  
+`Grafana`  
+`Virtual Machines (VM)`  
+`S3-Compatible Storage (RustFS)`
+
+---
+
+## 🏆 Achievements
+
+### 🚀 CUET Micro-Ops Hackathon – CUET CSE Fest 2025  
+**Role:** Team Leader  
+**Team:** SUST LowSpecs  
+
+Led a team to design, deploy, and operate a **production-like DevOps system** under real-world operational constraints during a competitive hackathon.
+
+#### 🔧 Key Contributions & Technologies
+- 🖥️ **Production deployment on Linux-based Virtual Machine (VM)**
+- 📦 **Docker & Docker Compose** for containerized microservices
+- ☁️ **S3-compatible storage using RustFS** to minimize download latency
+- 🔄 **CI/CD pipeline with GitHub Actions** for automated build & deployment
+- 📊 **Monitoring and observability using Grafana**
+- 🌐 **Nginx** for service routing and management
+
+#### 📈 Impact & Learnings
+- Strengthened hands-on expertise in **DevOps workflows, automation, and system reliability**
+- Applied **micro-operations and cloud-native concepts** in a time-constrained environment
+- Gained real-world experience in **technical leadership, architecture planning, and team coordination**
+
+---
+
+### 🏅 Certificate of Participation
+- **Micro-Ops Hackathon**, CUET CSE Fest 2025  
+- Organized by **CUET CSE Department**
 
 ---
 
@@ -44,8 +80,6 @@
 </p>
 
 ---
-
-
 
 ## 📬 Connect with Me
 
