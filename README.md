@@ -71,6 +71,7 @@ Led a team to design, deploy, and operate a **production-like DevOps system** un
 ---
 
 ### 🌎 Innovation World Cup 2026 – International Round Selection  
+**Role:** Team Leader  
 **Project:** AgriNova  
 **Team:** Team Nova  
 
@@ -103,8 +104,8 @@ Selected for the **Innovation World Cup 2026 International Round** for developin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rid-coder-70&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rid-coder-70&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RidC0der&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RidC0der&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
