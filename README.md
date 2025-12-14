@@ -66,17 +66,21 @@ Led a team to design, deploy, and operate a **production-like DevOps system** un
 
 ---
 
-## 📜 Certificates
+## 📜 Certificates & Recognition
+
 <p align="center">
-  <img src="assets/certificates/cuet-microops-hackathon.png" width="45%"><br>
-  <b>Micro-Ops Hackathon – CUET CSE Fest 2025</b>
+  <img src="assets/certificates/cuet-microops-hackathon.png" width="45%" alt="CUET Micro-Ops Hackathon Certificate">
+  <img src="assets/certificates/iwc-selection-email.jpeg" width="45%" alt="Innovation World Cup 2026 Selection Email">
 </p>
 
 <p align="center">
-  <img src="assets/certificates/iwc-selection-email.jpeg" width="45%"><br>
-  <b>Innovation World Cup 2026 – International Round Selection</b>
+  <b>Left:</b> Micro-Ops Hackathon – CUET CSE Fest 2025<br>
+  <b>Right:</b> Innovation World Cup 2026 – International Round Selection
 </p>
 
+
+
+---
 
 ## 📊 GitHub Stats
 
