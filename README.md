@@ -49,6 +49,10 @@
 **Role:** Team Leader  
 **Team:** SUST LowSpecs  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CUET%20Micro--Ops%20Hackathon-Winner-4CAF50?style=for-the-badge&logo=appveyor" alt="CUET Micro-Ops Hackathon Badge">
+</p>
+
 Led a team to design, deploy, and operate a **production-like DevOps system** under real-world operational constraints during a competitive hackathon.
 
 #### 🔧 Key Contributions & Technologies
@@ -66,22 +70,22 @@ Led a team to design, deploy, and operate a **production-like DevOps system** un
 
 ---
 
-## 📜 Certificates & Recognition
+### 🌎 Innovation World Cup 2026 – International Round Selection  
+**Project:** AgriNova  
+**Team:** Team Nova  
 
 <p align="center">
-  <img src="assets/certificates/cuet-microops-hackathon.png" width="45%" alt="CUET Micro-Ops Hackathon Certificate">
-  <img src="assets/certificates/iwc-selection-email.jpeg" width="45%" alt="Innovation World Cup 2026 Selection Email">
+  <img src="https://img.shields.io/badge/Innovation%20World%20Cup-International%20Round%20Selection-FF6F00?style=for-the-badge&logo=appveyor" alt="Innovation World Cup Badge">
 </p>
 
-<p align="center">
-  <b>Left:</b> Micro-Ops Hackathon – CUET CSE Fest 2025<br>
-  <b>Right:</b> Innovation World Cup 2026 – International Round Selection
-</p>
+Selected for the **Innovation World Cup 2026 International Round** for developing **AgriNova**, an innovative solution aimed at transforming modern agriculture using technology.
 
-
+#### 🔧 Key Highlights
+- 🌱 Developed **AgriNova**, focusing on smart agriculture solutions
+- 🤝 Represented **Team Nova** on an international stage
+- 🏅 Recognized for **innovation, impact, and technical excellence**
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
