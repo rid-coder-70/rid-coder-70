@@ -69,9 +69,10 @@ Led a team to design, deploy, and operate a **production-like DevOps system** un
 ## 📜 Certificates
 
 - 🏅 **Micro-Ops Hackathon – CUET CSE Fest 2025**  
-- 📁 View all certificates here:  
-  👉 **[Certificates Drive Folder](https://drive.google.com/drive/folders/1bjr9YknVODenW4Zfv-PbToGuRkPm4Wfa)**
-
+- 📁 View all certificates here:
+- <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=FILE_ID" width="70%">
+</p>
 ---
 
 ## 📊 GitHub Stats
