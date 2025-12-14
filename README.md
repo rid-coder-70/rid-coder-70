@@ -20,7 +20,7 @@
 - 🧠 Learning **Advanced DSA, Number Theory & Probability**
 - 🌌 Interested in **Computational Astrophysics**
 - 🤝 Open to collaboration on **DevOps, Web, App & AI/ML projects**
-- 🚀 Passionate about building **scalable, automated, and production-ready systems**
+- 🚀 Passionate about building **scalable, automated, production-ready systems**
 
 ---
 
@@ -66,9 +66,11 @@ Led a team to design, deploy, and operate a **production-like DevOps system** un
 
 ---
 
-### 🏅 Certificate of Participation
-- **Micro-Ops Hackathon**, CUET CSE Fest 2025  
-- Organized by **CUET CSE Department**
+## 📜 Certificates
+
+- 🏅 **Micro-Ops Hackathon – CUET CSE Fest 2025**  
+- 📁 View all certificates here:  
+  👉 **[Certificates Drive Folder](https://drive.google.com/drive/folders/1bjr9YknVODenW4Zfv-PbToGuRkPm4Wfa)**
 
 ---
 
