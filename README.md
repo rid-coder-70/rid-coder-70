@@ -34,17 +34,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rid-coder-70&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rid-coder-70&show_icons=true&theme=dark&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rid-coder-70&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rid-coder-70&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rid-coder-70&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rid-coder-70&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 
