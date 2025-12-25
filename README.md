@@ -34,16 +34,16 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-stats-one-phi.vercel.app/api?username=ridoybaidya&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=percentile" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rid-coder-70&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats-zeta-ochre.vercel.app/?user=ridoybaidya&hide_border=true&theme=tokyonight" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rid-coder-70&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-stats-one-phi.vercel.app/api/top-langs/?username=ridoybaidya&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rid-coder-70&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Virtual Machines · S3-Compatible Storage
   <a href="mailto:ridoybaidya2@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/gmail.png" height="30" width="40" />
   </a>
-  <a href="https://github.com/ridoybaidya" target="_blank">
+  <a href="https://github.com/rid-coder-70" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
   </a>
 </p>
