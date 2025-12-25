@@ -24,6 +24,9 @@
       <td style="border: none;">
         <img src="coding.gif" alt="Coding" width="300" />
       </td>
+      <td>
+        <img src="banner.gif" width="100%" />
+      </td>
     </tr>
   </table>
 </div>
