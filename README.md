@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ridoybaidya/ridoybaidya/main/assets/banner.gif" width="100%" alt="Profile Banner">
+  <img src="assets/banner.gif" width="100%" alt="Profile Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ridoy Baidya</h1>
@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rid-coder-70&show_icons=true&theme=dark&hide_border=true" />
+      <img src="https://ridoy-baidyas-projects-github-readme-stats.vercel.app/api?username=rid-coder-70&show_icons=true&theme=dark&hide_border=true" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rid-coder-70&theme=dark&hide_border=true" />
@@ -43,9 +43,8 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rid-coder-70&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://ridoy-baidyas-projects-github-readme-stats.vercel.app/api/top-langs/?username=rid-coder-70&layout=compact&theme=dark&hide_border=true" />
 </p>
-
 
 ---
 
