@@ -102,8 +102,6 @@ Selected for the **Innovation World Cup 2026 International Round** for developin
 
 ---
 
----
-
 ## 📬 Connect with Me
 
 <p align="center">
