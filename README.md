@@ -1,113 +1,102 @@
-## Hi there 👋 I'm Ridoy Baidya
+<h1 align="center">Hi 👋, I'm Ridoy Baidya</h1>
+<h3 align="center">CSE Undergraduate @ SUST | Aspiring Software Engineer | MERN & AI Enthusiast</h3>
 
-🎓 **Computer Science & Engineering Undergraduate**  
-🏫 Shahjalal University of Science and Technology (SUST)  
-💻 Aspiring **Software Engineer** | MERN Stack & AI Enthusiast  
-📍 Sylhet, Bangladesh  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Aspiring+Software+Engineer;MERN+Stack+Developer;DevOps+%26+AI+Enthusiast;Turning+Code+into+Solutions" />
+</p>
 
 ---
 
 ### 🚀 About Me
 
-I’m a passionate CSE student who loves turning ideas into scalable software solutions.  
-My interests span **full-stack development, DevOps, machine learning**, and **competitive programming**.
+🎓 CSE Undergraduate at **Shahjalal University of Science and Technology (SUST)**  
+💡 Passionate about **software engineering, full-stack development, DevOps, and AI**  
+🏆 Hackathon participant & ML learner  
+🧠 Love problem-solving, clean code, and scalable systems  
 
-I enjoy:
-- Building real-world projects
-- Learning modern software engineering practices
-- Participating in hackathons & tech competitions
-- Solving problems with clean, efficient code
-
-> _“Turning code into solutions, and challenges into opportunities.”_
+> *"Turning code into solutions, and challenges into opportunities."*
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
-**Languages**
-- C / C++
-- Java
-- JavaScript
-- Python
+#### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-**Frontend**
-- React.js
-- HTML5, CSS3
-- Tailwind CSS
+#### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**Databases**
-- MongoDB
-- PostgreSQL
-
-**DevOps & Tools**
-- Linux
-- Docker & Docker Compose
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Nginx
-- Grafana (Monitoring)
-
-**AI / ML**
-- Machine Learning fundamentals
-- Decision Trees & Random Forests
-- Data analysis with Python
+#### ⚙️ DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
 ---
 
-### 🏆 Experience & Achievements
+### 🏆 Highlights
 
-**🧠 Micro-Ops Hackathon – CUET CSE Fest 2025**  
-👨‍💼 *Team Leader – Team SUST LowSpecs*
+- 🧠 **Micro-Ops Hackathon (CUET CSE Fest 2025)** — *Team Leader*  
+  → Docker, CI/CD, Monitoring, Linux VMs, Nginx, Grafana, S3 storage  
 
-- Designed and deployed a production-like DevOps system
-- Worked with VMs, Docker, CI/CD, monitoring & storage systems
-- Led architecture decisions and team collaboration under time pressure
-
-**📊 Kaggle – Intro to Machine Learning**
-- Built ML models for house price prediction
-- Applied Decision Trees & Random Forests
-- Learned model tuning and evaluation techniques
+- 📊 **Kaggle – Intro to Machine Learning**
+  → Decision Trees, Random Forests, Model Tuning  
 
 ---
 
-### 📚 Education
+### 📊 GitHub Stats
 
-**Bachelor of Science (B.Sc.) in Computer Science & Engineering**  
-Shahjalal University of Science and Technology  
-📅 Aug 2023 – Jan 2027
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rid-coder-70&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rid-coder-70&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rid-coder-70&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ### 🌱 Currently Learning
 
 - Advanced Data Structures & Algorithms
-- Backend system design
-- Machine Learning & AI applications
-- DevOps best practices
+- Backend System Design
+- Machine Learning & AI
+- DevOps & Cloud-Native Systems
 
 ---
 
-### 🤝 Looking to Collaborate On
+### 🤝 Open To
 
-- MERN stack projects
-- Open-source contributions
-- AI / ML beginner-friendly projects
-- DevOps & cloud-native systems
+- MERN Stack Projects
+- Open-Source Contributions
+- AI / ML Beginner Projects
+- DevOps & Backend Systems
 
 ---
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/ridoy-baidya](https://www.linkedin.com/in/ridoy-baidya)
-- 🐙 GitHub: [github.com/rid-coder-70](https://github.com/rid-coder-70)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ridoy-baidya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ridoy%20Baidya-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/rid-coder-70" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rid--coder--70-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-
-I enjoy breaking complex systems into simple components — whether it’s an algorithm, a backend service, or a DevOps pipeline 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rid-coder-70&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
