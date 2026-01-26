@@ -96,6 +96,14 @@
 </p>
 
 ---
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rid-coder-70/rid-coder-70/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rid-coder-70&label=Profile%20Views&color=blueviolet&style=flat" />
