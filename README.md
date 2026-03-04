@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergraduate @ SUST | Aspiring Software Engineer | MERN & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Engineer;MERN+Stack+Developer;DevOps+%26+AI+Enthusiast;Turning+Code+into+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Engineer;FULL+Stack+Developer;DevOps+Basic Skill+%26+AI+Enthusiast;Turning+Code+into+Solutions" />
 </p>
 
 ---
