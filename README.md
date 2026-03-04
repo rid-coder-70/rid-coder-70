@@ -43,22 +43,6 @@
 
 ---
 
-## 🏆 Experience & Achievements
-
-### 🧠 Micro-Ops Hackathon — CUET CSE Fest 2025  
-**Role:** Team Leader (Team SUST LowSpecs)
-
-- Designed & deployed a production-like DevOps system  
-- Worked with Linux VMs, Docker, CI/CD, monitoring & storage  
-- Tools: Docker, GitHub Actions, Nginx, Grafana, S3-compatible storage  
-
-### 📊 Kaggle – Intro to Machine Learning
-- Built house price prediction models  
-- Used Decision Trees & Random Forests  
-- Learned model tuning & evaluation  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
