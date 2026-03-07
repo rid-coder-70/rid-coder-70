@@ -1,40 +1,51 @@
 <h1 align="center">Hi 👋, I'm Ridoy Baidya</h1>
-<h3 align="center">CSE Undergraduate @ SUST | Aspiring Software Engineer | MERN & AI Enthusiast</h3>
+<h3 align="center">CSE Undergraduate @ SUST | Aspiring Software Engineer | Full-Stack & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Engineer;FULL+Stack+Developer;DevOps+Basic Skill+%26+AI+Enthusiast;Turning+Code+into+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Developer;DevOps+%26+AI+Enthusiast;Building+Scalable+and+Impactful+Solutions" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Computer Science & Engineering undergraduate at **Shahjalal University of Science and Technology (SUST)**  
-💻 Passionate about **Software Engineering, Full-Stack Development, DevOps, and AI**  
-🏆 Hackathon participant & Machine Learning learner  
-🧠 Love problem-solving, scalable systems, and clean code  
+🎓 **Computer Science & Engineering Undergraduate** at  
+**Shahjalal University of Science and Technology (SUST)**  
 
-> *"Turning code into solutions, and challenges into opportunities."*
+💻 Passionate about:
+- **Software Engineering**
+- **Full-Stack Development**
+- **DevOps & Cloud Systems**
+- **Artificial Intelligence & Machine Learning**
+
+🏆 Hackathon participant and technology enthusiast  
+🧠 Strong interest in **problem solving, scalable systems, and clean architecture**
+
+> *"Turning ideas into software and challenges into opportunities."*
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-### 🌐 Frontend & Backend
+---
+
+## 🌐 Full-Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-### ⚙️ DevOps & Tools
+---
+
+## ⚙️ DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
@@ -43,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rid-coder-70&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -56,25 +67,25 @@
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Advanced Data Structures & Algorithms  
-- Backend System Design  
-- Machine Learning & AI  
-- DevOps & Cloud-Native Systems  
-
----
-
-## 🤝 Open To
-
-- MERN Stack Projects  
-- Open-Source Contributions  
-- AI / ML Beginner Projects  
-- DevOps & Backend Systems  
+- Advanced **Data Structures & Algorithms**
+- **Backend System Design**
+- **Machine Learning & AI Applications**
+- **DevOps & Cloud-Native Architecture**
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Open To Opportunities
+
+- Full-Stack Development Projects (MERN)
+- Open Source Contributions
+- AI / Machine Learning Projects
+- Backend & DevOps Systems
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ridoy-baidya" target="_blank">
@@ -87,7 +98,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rid-coder-70/rid-coder-70/output/github-contribution-grid-snake.svg" />
