@@ -1,9 +1,23 @@
-<h1 align="center">Hi , I'm Ridoy Baidya</h1>
-<h3 align="center">CSE Undergraduate @ SUST | Aspiring Software Engineer | Full-Stack & AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ridoy Baidya</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Developer;DevOps+%26+AI+Enthusiast;Building+Scalable+and+Impactful+Solutions" />
-</p>
+<h3 align="center">
+  CSE Undergraduate @ SUST <br/>
+  Aspiring Software Engineer |  Full-Stack Developer |  AI Enthusiast
+</h3>
+
+<div align="center">
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=700&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Developer;DevOps+%26+AI+Enthusiast;Building+Scalable+%26+Impactful+Solutions" 
+    alt="Typing Animation" 
+  />
+
+  <br/><br/>
+
+  <img src="coding.gif" alt="Coding Animation" width="320" />
+
+</div>
+
 
 ---
 
@@ -72,7 +86,7 @@ Strong interest in **problem solving, scalable systems, and clean architecture**
 
 # Open To Opportunities
 
-- Full-Stack Development Projects (MERN)  
+- Full-Stack Development Projects  
 - Open Source Contributions  
 - AI / Machine Learning Projects  
 - Backend & DevOps Systems  
@@ -83,10 +97,25 @@ Strong interest in **problem solving, scalable systems, and clean architecture**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ridoy-baidya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   <a href="https://github.com/rid-coder-70" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="https://facebook.com/ridoy.baiday.5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  </a>
+  <a href="mailto:ridoybaidya2@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://www.kaggle.com/ridoybaidya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" height="45" />
+  </a>
+  <a href="https://codeforces.com/profile/RidC0der" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codeforces" height="45" />
+  </a>
+  <a href="https://leetcode.com/u/ridc0der/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="45" />
   </a>
 </p>
 
