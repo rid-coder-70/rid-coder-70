@@ -125,9 +125,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rid-coder-70&label=Profile+Views&color=orange&labelColor=white&style=for-the-badge" />
-</p>
+</p> -->
 
 <div align="center">
   <h3><strong>“Code is my logic. Intelligence is my architecture. Impact is my goal.”</strong></h3>
