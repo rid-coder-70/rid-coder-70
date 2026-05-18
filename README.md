@@ -52,7 +52,7 @@
 *   **DNA Health Hackathon Sylhet (Participant)**:
     *   Designed AI-powered real-time diagnostics pipelines utilizing local medical data.
 
-##### **2. 💻 Full-Stack Architecture & Machine Learning Metrics**
+##### **2. Full-Stack Architecture & Machine Learning Metrics**
 *   **DesiDiet AI (GraphRAG Nutrition Ecosystem)**:
     *   Engineered a localized knowledge-graph meal advisor by linking 370+ local foods inside a **Neo4j Graph Database**.
     *   Built real-time conversational streaming utilizing **FastAPI Server-Sent Events (SSE)**.
