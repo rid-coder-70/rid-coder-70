@@ -18,16 +18,16 @@
 ```diff
 + SYSTEM.............. RIDOY-BAIDYA INTERFACE  
 # CORE ROLE............ FULL-STACK DEVELOPER & AI ENTHUSIAST  
-! STATUS............... UNDERGRADUATE @ SUST  
+! STATUS............... UNDERGRADUATE @ SUST (CSE)  
 + FIREWALL........... SECURED  
 @@ CURRENT TASK...... ADVANCED DSA / BACKEND SYSTEM DESIGN @@
 ```
 
 </td></tr></table>
 
-<img src="coding.gif" alt="Coding Animation" width="180" />
-
 </div>
+
+---
 
 #### **ABOUT ME**
 
@@ -37,11 +37,46 @@
 > 
 > Hackathon participant and technology enthusiast with a strong interest in **problem solving, scalable systems, and clean architecture**.
 
+---
+
+#### ** COMPREHENSIVE PORTFOLIO ANALYSIS & TELEMETRY**
+
+##### **1. Hackathon Victories & Blockchain Optimization**
+*   **Friction Hackathon 2026 — Champion (1st Place)**: 
+    *   **Project**: **Bangla Coin** (Team: *SUST SONGLAP*, BDT 50K Prize).
+    *   **Architecture**: Built a Friction-First Web3 system to combat rapid-fire blockchain scams using an intelligent **Risk Engine** applying dynamic transaction delays based on account behavior.
+    *   **Achievements**: Optimised Solidity code & consensus batching on a Polygon Edge framework, reducing validator gas operational costs by **65%**, and cutting scam transactions by **40%**.
+    *   *CTO Testimonial*: *"Saw your project on friction its quite cool"* — **Vas Sreeram, CTO @ Noverse Inc.**
+*   **DevOps Hackathon BUET (Top 20 Finalist) & CUET (Top 50 Finalist)**:
+    *   Architected modular microservices infrastructures using **Docker containerisation** and continuous deployment automation.
+*   **DNA Health Hackathon Sylhet (Participant)**:
+    *   Designed AI-powered real-time diagnostics pipelines utilizing local medical data.
+
+##### **2. 💻 Full-Stack Architecture & Machine Learning Metrics**
+*   **DesiDiet AI (GraphRAG Nutrition Ecosystem)**:
+    *   Engineered a localized knowledge-graph meal advisor by linking 370+ local foods inside a **Neo4j Graph Database**.
+    *   Built real-time conversational streaming utilizing **FastAPI Server-Sent Events (SSE)**.
+*   **Healthbed AI (Healthcare Metrics & Optimization)**:
+    *   Quantized **TensorFlow Machine Learning models** for fast client diagnostic telemetry.
+    *   Decreased ML inference backend response time from **1.2s to 150ms** (an **8x boost** in responsiveness!).
+*   **Bangla Go (60fps Interactive Mapping)**:
+    *   Leveraged Mapbox GL JS with geo-marker clustering to render **500+ cultural points of interest** concurrently on a responsive travel map at solid 60fps.
+
+##### **3. Algorithmic Mastery & Telemetry**
+Currently holding **582+ verified algorithmic solutions** across competitive programming ecosystems:
+*   **Codeforces** ([@RidC0der](https://codeforces.com/profile/RidC0der)): **462 problems solved** (Max Rating: **1082**). Focused on math, greedy logic, and constructive implementations.
+*   **CodeChef** ([@ridc0der](https://www.codechef.com/users/ridc0der)): **50+ problems solved** (Peak Rating: **1278**, **1★ Coder**).
+*   **LeetCode** ([@RidC0der](https://leetcode.com/u/RidC0der)): **70 problems solved** (Advanced graph theory and dynamic programming patterns).
+
+---
+
 #### **TECH STACK**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,react,nodejs,express,mongodb,postgresql,linux,docker,githubactions,nginx,grafana&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,typescript,python,react,nextjs,nodejs,express,mongodb,postgres,linux,docker,githubactions,nginx,aws&theme=dark&perline=9" />
 </p>
+
+---
 
 #### **ACTIVITY & ANALYTICS**
 
@@ -52,6 +87,8 @@
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=rid-coder-70&theme=tokyonight&hide_border=true&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&statlets=FFFFFF&background=000000" />
 </p>
+
+---
 
 #### **CURRENTLY LEARNING & OPPORTUNITIES**
 
