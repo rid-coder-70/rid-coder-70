@@ -49,7 +49,6 @@
 | 🎯 **DevOps Hackathon** — CUET | Dec 2025 | **Top 50 Finalist** | CI/CD pipeline automation |
 | 🔬 **DNA Health Hackathon** — Sylhet | Dec 2025 | Participant | AI-powered diagnostics pipeline |
 
-> *CTO Testimonial:* **"Saw your project on friction its quite cool"** — **Vas Sreeram, CTO @ Noverse Inc.**
 
 ---
 
