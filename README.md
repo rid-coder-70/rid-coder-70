@@ -47,7 +47,6 @@
 | 🏆 **Friction Hackathon 2026** — Noverse Inc. | Apr 2026 | **Champion (1st Place)** | **50K BDT Prize** — Team *SUST SONGLAP* |
 | 🎯 **DevOps Hackathon** — BUET | Jan 2026 | **Top 20 Finalist** | Microservices + Kubernetes infra |
 | 🎯 **DevOps Hackathon** — CUET | Dec 2025 | **Top 50 Finalist** | CI/CD pipeline automation |
-| 🔬 **DNA Health Hackathon** — Sylhet | Dec 2025 | Participant | AI-powered diagnostics pipeline |
 
 
 ---
@@ -59,12 +58,12 @@
   - Optimised Solidity code & consensus batching on **Polygon Edge**, cutting validator gas costs by **65%** and scam transactions by **40%**.
   - Stack: `React` · `Node.js` · `Hardhat` · `Solidity` · `Polygon Edge`
 
-- 💰 **SpendGuard** *(Production SaaS — Personal Finance)*
+- **SpendGuard** *(Production SaaS — Personal Finance)*
   - Intelligent subscription detection engine with **95%+ accuracy** and automated weekly/monthly email reporting.
   - Slashed CSV bulk import time from **15s → 2s** for 1,000+ transactions via chunked batch inserts and PostgreSQL transaction locks.
   - Stack: `Next.js` · `Node.js` · `PostgreSQL` · `TypeScript` · `Express` · `Recharts` · `JWT`
 
-- 🤖 **DesiDiet AI** *(GraphRAG Nutrition Ecosystem)*
+- **DesiDiet AI** *(GraphRAG Nutrition Ecosystem)*
   - Localized knowledge-graph meal advisor linking **370+ Bangladeshi foods** inside a **Neo4j Graph Database**.
   - Real-time conversational streaming via **FastAPI Server-Sent Events (SSE)**.
   - Stack: `React` · `TypeScript` · `FastAPI` · `Python` · `Neo4j` · `Prisma` · `GraphRAG`
@@ -77,7 +76,7 @@
   - Renders **500+ cultural points of interest** at a solid **60fps** using Mapbox GL JS marker clustering.
   - Stack: `React` · `Node.js` · `Mapbox GL JS` · `Tailwind CSS`
 
-- 🎮 **Code Craft Kids** *(EdTech / Visual Programming)*
+-  **Code Craft Kids** *(EdTech / Visual Programming)*
   - Blockly-powered visual coding IDE tested with **200+ students** at **90% course completion rate**.
   - Stack: `React` · `Node.js` · `Blockly` · `Tailwind CSS`
 
