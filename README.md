@@ -68,15 +68,15 @@
   - Real-time conversational streaming via **FastAPI Server-Sent Events (SSE)**.
   - Stack: `React` · `TypeScript` · `FastAPI` · `Python` · `Neo4j` · `Prisma` · `GraphRAG`
 
--  **Healthbed AI** *(ML Healthcare)*
+- **Healthbed AI** *(ML Healthcare)*
   - Quantized **TensorFlow** models cutting ML inference latency from **1.2s → 150ms** (8× speedup).
   - Stack: `Python` · `TensorFlow` · `React` · `FastAPI`
 
--  **Bangla Go** *(Geo / Interactive Maps)*
+- **Bangla Go** *(Geo / Interactive Maps)*
   - Renders **500+ cultural points of interest** at a solid **60fps** using Mapbox GL JS marker clustering.
   - Stack: `React` · `Node.js` · `Mapbox GL JS` · `Tailwind CSS`
 
--  **Code Craft Kids** *(EdTech / Visual Programming)*
+- **Code Craft Kids** *(EdTech / Visual Programming)*
   - Blockly-powered visual coding IDE tested with **200+ students** at **90% course completion rate**.
   - Stack: `React` · `Node.js` · `Blockly` · `Tailwind CSS`
 
